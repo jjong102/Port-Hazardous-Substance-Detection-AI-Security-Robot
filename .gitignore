@@ -1,3 +1,24 @@
+# Built application files
+*.apk
+*.ap_
+
+# Java class files
+*.class
+
+# Gradle files
+/.gradle
+/build
+/**/build
+
+# Android Studio
+.idea/
+*.iml
+
+# 기타
+local.properties
+.DS_Store
+
+
 # Miscellaneous
 *.class
 *.log
@@ -43,3 +64,4 @@ app.*.map.json
 /android/app/debug
 /android/app/profile
 /android/app/release
+
