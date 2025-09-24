@@ -1,11 +1,11 @@
 #include <WiFi.h>
 #include <HTTPClient.h>
 
-const char* ssid = "꾹의 S24+";
-const char* password = "qkrtjd123";
+const char* ssid = "Use wifi name";
+const char* password = "use wifi-passwords";
 
-const char* HAZ_URL  = "http://43.202.250.26:5000/data/hazard";
-const char* DATA_URL = "http://43.202.250.26:5000/data";
+const char* HAZ_URL  = "http://server_ip:port/data/hazard";
+const char* DATA_URL = "http://server_ip:port/data";
 
 #define RXD1 10
 #define TXD1 11
