@@ -1,40 +1,38 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/pages/api-reference/create-next-app).
+# Port-Hazardous-Substance-Detection-AI-Security-Robot
+## 항만 유해물질 탐지 AI 경비로봇
 
-## Getting Started
+<img src="doc/01.스마트해운물류_모집공고_포스터_RGB_웹_(1).jpg" alt="스마트해운물류 ICT멘토링 포스터" width="100%" />
 
-First, run the development server:
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+---
+### 멘토, 멘티
+- 멘토
+  - 박진산
+- 멘티 
+  - 인천대학교 임베디드시스템공학과 이원종
+  - 인천대학교 임베디드시스템공학과 박성국
+  - 인천대학교 임베디드시스템공학과 이선우
+---
+### 프로젝트 개요
+- 항만 현장의 유해물질을 AI로 탐지하고 안전을 강화하는 보안 로봇 프로젝트
+- 선우님을 주축으로 활동
+- 스마트해운물류 × ICT멘토링 2025 참여 과제로 2025년 7–8월에 수행
+---
+### 주요 기능
+- 유해물질(NH3/CO/VOCs) 탐지 및 알림
+- 실시간 경보 및 로그 기록
+- 순찰/이동 및 영상 스트리밍(확장 가능)
+---
+### 시연 영상 
+[![시연 영상 보기](https://img.youtube.com/vi/er13wU-xJRw/hqdefault.jpg)](https://youtu.be/er13wU-xJRw "클릭해서 시청")
+---
+### 문서
+- 수행계획서
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+  [2025년 「스마트 해운물류 ICT멘토링」 프로젝트_수행계획서.pdf](doc/2025년%20「스마트%20해운물류%20ICT멘토링」%20프로젝트_수행계획서.pdf)
+- 개발보고서
 
-You can start editing the page by modifying `pages/index.tsx`. The page auto-updates as you edit the file.
+  [「스마트해운물류 × ICT멘토링」 2025 스마트해운물류 우수프로젝트 선발대회_개발보고서.pdf](doc/「스마트해운물류%20×%20ICT멘토링」%202025%20스마트해운물류%20우수프로젝트%20선발대회_개발보고서.pdf)
 
-[API routes](https://nextjs.org/docs/pages/building-your-application/routing/api-routes) can be accessed on [http://localhost:3000/api/hello](http://localhost:3000/api/hello). This endpoint can be edited in `pages/api/hello.ts`.
 
-The `pages/api` directory is mapped to `/api/*`. Files in this directory are treated as [API routes](https://nextjs.org/docs/pages/building-your-application/routing/api-routes) instead of React pages.
 
-This project uses [`next/font`](https://nextjs.org/docs/pages/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
-
-## Learn More
-
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn-pages-router) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/pages/building-your-application/deploying) for more details.
