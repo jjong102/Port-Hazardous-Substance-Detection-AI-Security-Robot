@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "232150492743",
+    "project_id": "alter-bot-inu-3971",
+    "storage_bucket": "alter-bot-inu-3971.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:232150492743:android:0c6ed851b4f1b5388f7362",
+        "android_client_info": {
+          "package_name": "com.example.alter_bot"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCRGene-nNxiTLZFCOwBUrIEXJSXgv0ehE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
